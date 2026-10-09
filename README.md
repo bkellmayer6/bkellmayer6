@@ -3,16 +3,16 @@ I'm Bennett Kellmayer, a graduate student studying geodetic science at The Ohio 
 
 📫 Reach me at: kellmayer.1[at]osu.edu or connect with me on LinkedIn!
 
-# 🌐 Professional Links:  
+## 🌐 Professional Links:  
 [![Website](https://img.shields.io/badge/Personal_Website-4285F4?style=flat-square)](https://sites.google.com/view/bennett-kellmayer)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bennett-Kellmayer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennett-kellmayer-3a3966255)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0510-0063)
 
-# 💡 Featured Work
+## 💡 Featured Work
 *   **[pybelikov](https://github.com/bkellmayer6/pybelikov):** A Python package for the high-precision computation of fully normalized associated Legendre functions, designed for high-degree Earth gravity modeling.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 **Languages & Shells:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&logoCache=clear) <br>
 **Data Science & Geospatial:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white) ![xarray](https://img.shields.io/badge/xarray-000000?style=flat-square) ![ObsPy](https://img.shields.io/badge/ObsPy-921416?style=flat-square) ![Cartopy](https://img.shields.io/badge/Cartopy-2F628F?style=flat-square) ![PyGMT](https://img.shields.io/badge/PyGMT-404040?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-2C92C4?style=flat-square&logo=gdal&logoColor=white) ![GMT](https://img.shields.io/badge/GMT-404040?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-004576?style=flat-square&logo=arcgis) ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white) <br>
 **Environments:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) <br>
